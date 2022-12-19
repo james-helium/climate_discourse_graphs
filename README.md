@@ -1,6 +1,6 @@
 # climate_discourse_graphs
 
-This repo contains the R and Python scripts for network analyses of twitter climate discourses. Refer to the introduction section of the texttt{text_analysis.ipynb} python notebook for the skematics. 
+This repo contains the R and Python scripts for network analyses of twitter climate discourses. Refer to the introduction section of the "text_analysis.ipynb" python notebook for the skematics. 
 
 Briefly, the python notebook should be run first; it takes the raw tweets texts, clean them, concatenate to each user, and perform two different user-pair similarity computation yielding in similarity matrices. These matrices are then passed to the R script for graph analyses (clustering and visualisation).
 
